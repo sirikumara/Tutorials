@@ -1,7 +1,2 @@
 One
-Two
-Three
-five
-four
-six
-seven
+Done in browser.
